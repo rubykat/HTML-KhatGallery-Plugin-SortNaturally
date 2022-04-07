@@ -1,18 +1,11 @@
 package HTML::KhatGallery::Plugin::SortNaturally;
+
 use strict;
 use warnings;
 
 =head1 NAME
 
 HTML::KhatGallery::Plugin::SortNaturally - Plugin for khatgallery to use Natural sort for index lists.
-
-=head1 VERSION
-
-This describes version B<0.01> of HTML::KhatGallery::Plugin::SortNaturally.
-
-=cut
-
-our $VERSION = '0.01';
 
 =head1 SYNOPSIS
 
